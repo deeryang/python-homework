@@ -10,13 +10,11 @@ num = int(input("Enter a three-digit integer: "))
 
 integer = num
 res = 0
-while (num):
+while num:
     res = (num % 10 + res) * 10
     num = num // 10
-    print(res)
-    print(num)
     
-if integer == (res // 10):
+if integer == res // 10:
     print(integer, "is a palindrome")
 else:
     print(integer, "is not a palindrome")

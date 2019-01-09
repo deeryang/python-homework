@@ -15,7 +15,7 @@ num = int(input("Enter an integer, the input ends if it is 0: ").strip())
 if num == 0:
     print("You didn't enter any number")
 else:
-    while (num):
+    while num:
         if num > 0:
             positives += 1
         else:
