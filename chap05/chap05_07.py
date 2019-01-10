@@ -13,5 +13,5 @@ print("-" * 40)
 
 for i in range(0, 361, 10):
     radians = math.radians(i)
-    print(format(i, ">10d"), " | ", format(math.sin(radians), "10.4f"), " | ", format(math.cos(radians), ">10.4f"))
+    print(format(i, ">10d"), " | ", format(math.sin(radians), ">10.4f"), " | ", format(math.cos(radians), ">10.4f"))
     
