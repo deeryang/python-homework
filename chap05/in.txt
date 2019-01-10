@@ -1,0 +1,1 @@
+Enter the number of students: Enter the score: Enter the score: Enter the score: Enter the score: Enter the score: The maximum score is: 6
