@@ -11,6 +11,7 @@ Created on Thu Jan 10 21:52:10 2019
 # use the console window
 # command: python3 chap05_10.py < in.txt
 # =============================================================================
+
 numberOfStudents = eval(input("Enter the number of students: "))
 print()
 
