@@ -1,1 +1,4 @@
-Enter the number of students: Enter the score: Enter the score: Enter the score: Enter the score: Enter the score: The maximum score is: 6
+3
+86
+88
+87
