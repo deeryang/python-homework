@@ -7,7 +7,7 @@ Created on Mon Jan 14 12:00:02 2019
 """
 
 def numberOfDaysInAYear(year):
-    if (year % 4 == 0 or year % 100 == 0) and year % 400 != 0:
+    if (year % 4 == 0 and year % 100 != 0) or year % 400 == 0:
         days = 366
     else:
         days = 365

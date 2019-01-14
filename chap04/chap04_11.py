@@ -8,7 +8,7 @@ Created on Mon Jan  7 21:07:02 2019
 
 month, year = eval(input("Enter the month and the year:"))
 
-if (not (year % 4) or not (year % 100)) and (year % 400):
+if (year % 4 == 0 and year % 100 != 0) or year % 400 == 0:
     flag = 1
 else:
     flag = 0
