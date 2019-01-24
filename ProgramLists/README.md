@@ -1,6 +1,4 @@
 
-
-
 ## chap06
 
 | **list** | **code** |
@@ -18,9 +16,6 @@
 | 6-11 | [RandomCharacter.py](RandomCharacter.py) |
 | 6-12 | [TestRandomCharacter.py](TestRandomCharacter.py) |
 
-
-
-
 ## chap07
 
 | **list** | **code** |
@@ -36,5 +31,10 @@
 | 7-9 | [UseBMIClass.py](UseBMIClass.py) |
 | 7-10 | [BMI.py](BMI.py) |
 
+## chap08
+
+| **list** | **code** |
+| :------: | ---------|
+| 8-1 | [CheckPalindrome.py](CheckPalindrome.py) |
 
 
