@@ -1,0 +1,17 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Jan 24 16:16:24 2019
+
+@author: yang
+"""
+
+from BMI import BMI
+
+def main():
+    bmi1 = BMI("John Doe", 18, 145, 70)
+    print("The BMI for", bmi1.getName(), "is", bmi1.getBMI(), bmi1.getStatus())
+    bmi2 = BMI("Peter King", 50, 215, 70)
+    print("The BMI for", bmi2.getName(), "is", bmi2.getBMI(), bmi2.getStatus())
+
+main()  # Call the main function
