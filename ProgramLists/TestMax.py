@@ -1,0 +1,26 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Jan 24 10:03:53 2019
+
+@author: yang
+"""
+
+# List 6-1
+# Return the max of two numbers
+def max(num1, num2):
+    if num1 > num2:
+        result = num1
+    else:
+        result = num2
+    
+    return result
+
+def main():
+    i = 5
+    j = 2
+    k = max(i, j)   # Call the max function
+    print("The larger number of", i, "and", j, "is", k)
+    
+main()  # Call the main function
+    
