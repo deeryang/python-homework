@@ -24,11 +24,19 @@
 | 2-9 | [ComputeDistance.py](ComputeDistance.py) |
 | 2-10 | [ComputeDistanceGraphics.py](ComputeDistanceGraphics.py) |
 
-## chap02
+## chap03
 
 | **list** | **code** |
 | :------: | ---------|
 | 3-1 | [MathFunction.py](mathFunction.py) |
+
+
+## chap05
+
+| **list** | **code** |
+| :------: | ---------|
+| 5-8 | [GreatestCommonDivisor.py](GreatestCommonDivisor.py) |
+
 
 ## chap06
 
@@ -67,5 +75,8 @@
 | **list** | **code** |
 | :------: | ---------|
 | 8-1 | [CheckPalindrome.py](CheckPalindrome.py) |
+| 8-2 | [HexToDecimalConversion.py](HexToDecimalConversion.py) |
+| 8-3 | [TestRationalClass.py](TestRationalClass.py) |
+| 8-4 | [Rational.py](Rational.py) |
 
 
