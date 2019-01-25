@@ -36,6 +36,8 @@
 | **list** | **code** |
 | :------: | ---------|
 | 4-1 | [AdditionQuiz.py](AdditionQuiz.py) |
+| 4-2 | [SimpleIfDemo.py](SimpleIfDemo.py) |
+| 4-3 | [GuessBirthday.py](GuessBirthday.py) |
 
 ## chap05
 
@@ -91,5 +93,6 @@
 | :------: | ---------|
 | 9-1 | [SimpleGUI.py](SimpleGUI.py) |
 | 9-2 | [ProcessButtonEvent.py](ProcessButtonEvent.py) |
-
+| 9-3 | [ProcessButtonEventAlternativeCode.py](ProcessButtonEventAlternativeCode.py) |
+| 9-4 | [WidgetsDemo.py](WidgetsDemo.py) |
 
