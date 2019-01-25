@@ -31,6 +31,12 @@
 | 3-1 | [MathFunction.py](mathFunction.py) |
 
 
+## chap04
+
+| **list** | **code** |
+| :------: | ---------|
+| 4-1 | [AdditionQuiz.py](AdditionQuiz.py) |
+
 ## chap05
 
 | **list** | **code** |
@@ -78,5 +84,12 @@
 | 8-2 | [HexToDecimalConversion.py](HexToDecimalConversion.py) |
 | 8-3 | [TestRationalClass.py](TestRationalClass.py) |
 | 8-4 | [Rational.py](Rational.py) |
+
+## chap09
+
+| **list** | **code** |
+| :------: | ---------|
+| 9-1 | [SimpleGUI.py](SimpleGUI.py) |
+| 9-2 | [ProcessButtonEvent.py](ProcessButtonEvent.py) |
 
 
