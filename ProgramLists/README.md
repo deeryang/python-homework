@@ -96,3 +96,25 @@
 | 9-3 | [ProcessButtonEventAlternativeCode.py](ProcessButtonEventAlternativeCode.py) |
 | 9-4 | [WidgetsDemo.py](WidgetsDemo.py) |
 
+## chap10
+
+| **list** | **code** |
+| :------: | ---------|
+
+| 10-4 | [DeckOfCardsGUI.py](DeckOfCardsGUI.py) |
+
+
+## chap12
+
+| **list** | **code** |
+| :------: | ---------|
+
+| 12-1 | [GeometricObject.py](GeometricObject.py) |
+| 12-2 | [CircleFromGeometricObject.py](CircleFromGeometricObject.py) |
+| 12-3 | [RectangleFromGeometricObject.py](RectangleFromGeometricObject.py) |
+| 12-4 | [TestCircleRectangle.py](TestCircleRectangle.py) |
+| 12-5 | [PolymorphismDemo.py](PolymorphismDemo.py) |
+| 12-6 | [DynamicBindingDemo.py](DynamicBindingDemo.py) |
+| 12-7 | [IsinstanceDemo.py](IsinstanceDemo.py) |
+| 12-8 | [DisplayClock.py](DisplayClock.py) |
+| 12-9 | [StillClock.py](StillClock.py) |
