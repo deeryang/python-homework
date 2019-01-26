@@ -100,7 +100,6 @@
 
 | **list** | **code** |
 | :------: | ---------|
-
 | 10-4 | [DeckOfCardsGUI.py](DeckOfCardsGUI.py) |
 
 
@@ -108,7 +107,6 @@
 
 | **list** | **code** |
 | :------: | ---------|
-
 | 12-1 | [GeometricObject.py](GeometricObject.py) |
 | 12-2 | [CircleFromGeometricObject.py](CircleFromGeometricObject.py) |
 | 12-3 | [RectangleFromGeometricObject.py](RectangleFromGeometricObject.py) |
