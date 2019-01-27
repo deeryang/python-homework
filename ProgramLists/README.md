@@ -100,6 +100,8 @@
 
 | **list** | **code** |
 | :------: | ---------|
+| 10-1 | [DataAnalysis.py](DataAnalysis.py) |
+| 10-2 | [LottoNumbers.py](LottoNumbers.py) |
 | 10-4 | [DeckOfCardsGUI.py](DeckOfCardsGUI.py) |
 
 
